@@ -1,2 +1,55 @@
-header {background-color:aquamarine}
-h2 {color:darkseagreen}
+header {
+    color:#FFFFFF;
+    font-family: "Century Gothic";
+    height: 60px;
+    padding-top: 10px;
+    text-align: center;
+} 
+nav {
+    font-family: "Century Gothic";
+    font-style:italic;
+    text-align: center;
+}
+
+body {
+    background-image: url(wall_brick_texture_shadow_black_and_white_44987_1920x1080.jpg);
+    
+}
+h1 {
+    font-family: "Century Gothic";
+    font-weight:bold;
+}
+
+h2 {
+    color:"gainsboro";
+    text-shadow: 1px, 1px, 1px #003300;
+    font-family: "Century Gothic";
+    font-weight:bold;
+    font-style:"italic";
+}
+
+footer {
+    font-size:75%;
+    font-style: Italic;
+    text-align: center;
+    font-family: "Century Gothic";
+    padding: 10px;
+    color: #FFFFFF;
+    
+}
+
+main {
+    padding-top: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    display:block; 
+    font-family: "Century Gothic";
+    color: #FFFFFF;
+}
+
+li {
+    list-style-image:url(punchkickbuttons.jpg);
+    list-style-position: inside;
+    text-shadow: 1px, 1px, 1px #FFFFFF;
+    
