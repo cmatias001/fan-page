@@ -67,7 +67,7 @@ main {
 li {
     list-style-image:url(punchkickbuttons.jpg);
     list-style-position: inside;
-    text-shadow: 1px, 1px, 1px #FFFFFF;
+    text-shadow: 1px 1px 1px #FFFFFF;
 }
 
 img {
