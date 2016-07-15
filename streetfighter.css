@@ -80,3 +80,10 @@ img:hover {
     
 }
 
+#mobile {
+    display: none;
+}
+
+#desktop {
+    display:inline;
+}
